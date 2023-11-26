@@ -4,7 +4,7 @@ learn [VectorDB](https://vectordb.com/)
 
 ## demo
 
-see [`main.ipynb``](./main.ipynb)
+see [`main.ipynb`](./main.ipynb)
 
 ```bash
 # install dependencies
